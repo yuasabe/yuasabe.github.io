@@ -4,3 +4,4 @@ description:
 show_downloads: false
 google_analytics: UA-120752245-1
 theme: jekyll-theme-minimal
+keep_files: [blog]
