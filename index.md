@@ -8,6 +8,7 @@ layout: default
 **Yu ASABE** is a junior student at the Department of Information and Communication Engineering, Faculty of Engineering in the University of Tokyo. 
 
 ### Projects
+- E-commerce for influencer shops. Recosho. [Parchie Inc.](https://parchie.jp]). From 2019.9.
 - E-commerce for gifts and personalized presents. [TANP](https://tanp.jp).
 - SoundGuess, iOS App. 2014.
 
