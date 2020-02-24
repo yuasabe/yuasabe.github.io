@@ -33,6 +33,11 @@ layout: default
 - Shogo Hayashi (Institute of Industrial Science, The University of Tokyo, Japan), **Yu Asabe**, Keiichi Ishikawa, Yuka Takahashi, Masashi Ikarashi (The University of Tokyo, Japan), Kanta Matsuura (Institute of Industrial Science, The University of Tokyo, Japan).  
 Investigating Universal Metrics of Vulnerability Regarding Cross-Site Scripting Attacks. IWSEC 2016. Poster
 
+### Books
+
+- [「はじめて学ぶバイナリ解析」(インプレスNextPublishing) ](https://www.amazon.co.jp/gp/product/B084R85269/ref=as_li_tf_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B084R85269&linkCode=as2&tag=impressrd-1-22)  
+小林 佐保 (著), 岡田 怜士 (著), 浅部 佑 (著), 満永 拓邦 (著)
+
 ### Skillset
 - Python
 - C
