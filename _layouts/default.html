@@ -78,7 +78,13 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        <p><a href="https://blog.yuasabe.com">Blog</a></p>
+        <p>
+					<ul style="list-style-type:none; margin:0; padding:0;">
+						<li><a href="https://blog.yuasabe.com">Blog</a></li>
+						<li><a href="https://yuasabe.gitbook.io/notes">Gitbook Notes</a></li>
+						<li><a href="https://github.com/yuasabe">Github</a></li>
+					</ul>
+				</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -97,7 +103,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

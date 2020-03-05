@@ -35,6 +35,8 @@ Investigating Universal Metrics of Vulnerability Regarding Cross-Site Scripting 
 
 ### Books
 
+バイナリ解析の入門書を共著で出版しました。[詳細](https://yuasabe.gitbook.io/notes/binary-book)
+
 - [「はじめて学ぶバイナリ解析」(インプレスNextPublishing) ](https://www.amazon.co.jp/gp/product/B084R85269/ref=as_li_tf_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B084R85269&linkCode=as2&tag=impressrd-1-22)  
 小林 佐保 (著), 岡田 怜士 (著), 浅部 佑 (著), 満永 拓邦 (著)
 
@@ -73,6 +75,9 @@ Investigating Universal Metrics of Vulnerability Regarding Cross-Site Scripting 
 
 ### Notes
 
+最新の技術ネタは[Gitbooks](https://yuasabe.gitbook.io/notes)に書いています！
+
+- [30日でできる！ OS自作入門](https://yuasabe.gitbook.io/notes/my-os)
 - [analyzing binaries and intro to pwning](/pwn01.html)
 - [weekly tech meeting notes](/weekly_tech_meeting.html)
 - [Interop 2018](/interop2018.html)
