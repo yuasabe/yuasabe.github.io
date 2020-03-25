@@ -5,7 +5,7 @@ layout: default
   
 ## Yu Asabe | 浅部 佑
 
-**Yu ASABE** is a junior student at the Department of Information and Communication Engineering, Faculty of Engineering in the University of Tokyo. 
+**Yu ASABE** is a senior student at the Department of Information and Communication Engineering, Faculty of Engineering in the University of Tokyo. He is a member of the [Esaki & Ochiai Laboratory](http://www.hongo.wide.ad.jp/index.html), which focuses on network architecture and cyber security.
 
 ### Projects
 - E-commerce for influencer shops. Recosho. [Parchie Inc.](https://parchie.jp]). From 2019.9.
@@ -27,6 +27,7 @@ layout: default
 - [National Students Smartphone Application Contest](https://www.applikoshien.jp/) 2013 First Place
 - [National Students Web Contest](http://webcon.japias.jp/) 2013 Finalist
 - Mashup Award 9 U-18 Award
+- Micro Hardening v2, March 2020. 1st Place.
 
 ### Papers and Posters
 
