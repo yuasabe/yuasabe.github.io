@@ -77,7 +77,8 @@ Investigating Universal Metrics of Vulnerability Regarding Cross-Site Scripting 
 
 ### Notes
 
-最新の技術ネタは[notes.yuasabe.com](https://notes.yuasabe.com)に書いています！
+最新の技術ネタは[notes.yuasabe.com](https://notes.yuasabe.com)に書いています！  
+
 一部[Gitbooks](https://yuasabe.gitbook.io/notes/)にもあります。
 
 - [30日でできる！ OS自作入門](https://yuasabe.gitbook.io/notes/my-os)
