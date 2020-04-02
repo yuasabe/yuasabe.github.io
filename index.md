@@ -73,13 +73,11 @@ Investigating Universal Metrics of Vulnerability Regarding Cross-Site Scripting 
 - [Wantedly](https://www.wantedly.com/users/17848644)
 - [LinkedIn](https://www.linkedin.com/in/yu-asabe-a125a111b)
 - [Github](https://github.com/yuasabe)
-- [Notes](https://notes.yuasabe.com)
+- [Gitbooks](https://yuasabe.gitbook.io/notes/)
 
 ### Notes
 
-最新の技術ネタは[notes.yuasabe.com](https://notes.yuasabe.com)に書いています！  
-
-一部[Gitbooks](https://yuasabe.gitbook.io/notes/)にもあります。
+技術ネタは[Gitbooks](https://yuasabe.gitbook.io/notes/)に書いていきます。
 
 - [30日でできる！ OS自作入門](https://yuasabe.gitbook.io/notes/my-os)
 - [analyzing binaries and intro to pwning](/pwn01.html)
